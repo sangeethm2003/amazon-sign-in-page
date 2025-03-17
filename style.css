@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 103px;
+    height: 33px;
+    margin-top: 15px;
+}
+.logo span{
+    margin-top: 10px;
+    font-size: 14px;
+
+}
+.card{
+    position: relative;
+    left: 40%;
+    width: 296px;
+    height: 240px;
+    padding: 20px 26px;
+    flex-direction: column;
+    border: 1px solid #0f0505;
+    border-radius: 4px;
+    margin: 2opx auto 25px auto
+
+}
+.card h1{
+ font-weight: 400px;  
+ font-size: 13px; 
+}
+.card label{
+    font-size: 13px;
+    padding-left: 2px;
+    padding-bottom:2px;
+    font-weight:700;
+     
+}
+.card input{
+    width: 272px;
+    height:22px;
+    padding: 3px ;
+    margin: top 3px;
+    background-color: #f9f9fc;
+    border: 1px solid#f5eeee;
+    border-radius: 3px;
+}
+.card button{
+    width: 288px;
+    height:31px;
+    margin-top: 15px;
+    background-color: #f0c14b;
+    border:1px solid#a6a6a6;
+    border-top-color: #949494;
+    background-image: linear-gradient(#f7da90,#e2b33b);
+    border-radius:3px;
+}
+.card p,.card p a{
+    font-size: 12px;
+    line-height: 1.5;
+}
+.b{
+    color: blue;
+}
