@@ -9,20 +9,20 @@
     align-items: center;
 }
 .logo img{
-    width: 102px;
-    height: 32px;
-    margin-top: 14px;
+    width: 101px;
+    height: 33px;
+    margin-top: 15px;
 }
 .logo span{
-    margin-top: 10px;
-    font-size: 14px;
+    margin-top: 11px;
+    font-size: 15px;
 
 }
 .card{
     position: relative;
     left: 40%;
     width: 296px;
-    height: 240px;
+    height: 242px;
     padding: 20px 26px;
     flex-direction: column;
     border: 1px solid #0f0505;
@@ -35,7 +35,7 @@
  font-size: 14px; 
 }
 .card label{
-    font-size: 13px;
+    font-size: 14px;
     padding-left: 2px;
     padding-bottom:2px;
     font-weight:700;
