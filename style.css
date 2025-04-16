@@ -9,8 +9,8 @@
     align-items: center;
 }
 .logo img{
-    width: 101px;
-    height: 33px;
+    width: 100px;
+    height: 32px;
     margin-top: 15px;
 }
 .logo span{
@@ -23,7 +23,7 @@
     left: 40%;
     width: 296px;
     height: 242px;
-    padding: 20px 26px;
+    padding: 20px 25px;
     flex-direction: column;
     border: 1px solid #0f0505;
     border-radius: 4px;
@@ -31,18 +31,18 @@
 
 }
 .card h1{
- font-weight: 400px;  
+ font-weight: 399px;  
  font-size: 14px; 
 }
 .card label{
-    font-size: 14px;
+    font-size: 15px;
     padding-left: 2px;
     padding-bottom:2px;
     font-weight:700;
      
 }
 .card input{
-    width: 272px;
+    width: 270px;
     height:22px;
     padding: 3px ;
     margin: top 3px;
@@ -51,17 +51,17 @@
     border-radius: 3px;
 }
 .card button{
-    width: 288px;
+    width: 290px;
     height:31px;
     margin-top: 15px;
     background-color: #f0c14b;
-    border:1px solid#a6a6a6;
+    border:2px solid#a6a6a6;
     border-top-color: #949494;
     background-image: linear-gradient(#f7da90,#e2b33b);
     border-radius:3px;
 }
 .card p,.card p a{
-    font-size: 12px;
+    font-size: 11px;
     line-height: 1.5;
 }
 .b{
