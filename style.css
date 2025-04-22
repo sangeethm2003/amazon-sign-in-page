@@ -9,13 +9,13 @@
     align-items: center;
 }
 .logo img{
-    width: 100px;
-    height: 31px;
-    margin-top: 15px;
+    width: 101px;
+    height: 30px;
+    margin-top: 16px;
 }
 .logo span{
     margin-top: 14px;
-    font-size: 13px;
+    font-size: 14px;
 
 }
 .card{
@@ -31,8 +31,8 @@
 
 }
 .card h1{
- font-weight: 399px;  
- font-size: 14px; 
+ font-weight: 400px;  
+ font-size: 15px; 
 }
 .card label{
     font-size: 15px;
